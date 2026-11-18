@@ -1,0 +1,4 @@
+# The core and the tests use the standard library only.
+# Live runs need akshare; pandas comes with it.
+akshare>=1.12
+pandas>=2.0
